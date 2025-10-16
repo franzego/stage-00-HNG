@@ -20,9 +20,9 @@ func main() {
 	r.GET("/me", internal.GetProfile)
 
 	go func() {
-		port := os.Getenv("port")
+		port := os.Getenv("PORT")
 		if port == "" {
-			port = ":8080"
+			port = "8080"
 		}
 		if err := r.Run("0.0.0.0:" + port); err != nil {
 			log.Fatalf("Server failed to start: %v", err)
