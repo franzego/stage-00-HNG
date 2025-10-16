@@ -98,8 +98,9 @@ This project leverages the following key technologies:
 
 ## Author
 **Enenamah David**
--   LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/davidenenamah)
--   Twitter: [@yourtwitterhandle](https://twitter.com/saint_franz)
+-   LinkedIn: [davidenenemah](https://www.linkedin.com/in/davidenenamah)
+-   Twitter: [@saint_franz](https://twitter.com/saint_franz)
+-   Medium: [https://medium.com/@franzego](https://medium.com/@franzego/building-a-dynamic-profile-endpoint-with-go-and-gin-my-stage-0-journey-as-a-backend-wizard-%EF%B8%8F-a6a2b4a96c2c)
 
 ## Badges
 [![Go Version](https://img.shields.io/badge/Go-1.25-00ADD8?style=flat&logo=go)](https://golang.org/)
